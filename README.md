@@ -1,1 +1,2 @@
-# -ourse-work-the-game-of-battleship
+# -C
+ourse-work-the-game-of-battleship
